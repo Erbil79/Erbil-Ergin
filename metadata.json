@@ -1,0 +1,6 @@
+{
+  "name": "Terlik ERP - Maliyet, Reçete ve Üretim Takip Sistemi",
+  "description": "Terlik üreticileri için reçete hazırlama, taban (36-45) numara matrisi, hammadde stok takibi, sipariş ve iş emri yönetimi, tedarikçi siparişi ve verimlilik analiz sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
